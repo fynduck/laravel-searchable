@@ -1,7 +1,7 @@
 # laravel-searchable
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/fynduck/laravel-searchable.svg?style=flat-square)](https://packagist.org/packages/fynduck/files-upload)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/fynduck/laravel-searchable.svg?style=flat-square)](https://packagist.org/packages/fynduck/laravel-searchable)
 [![Total Downloads](https://img.shields.io/packagist/dt/fynduck/laravel-searchable.svg?style=flat-square)](https://packagist.org/packages/fynduck/files-upload)
 
 ## Install
