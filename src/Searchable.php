@@ -6,7 +6,7 @@
  * Time: 12:13
  */
 
-namespace Fynduck\LaravelSearchable\src;
+namespace Fynduck\LaravelSearchable;
 
 
 use Illuminate\Database\Eloquent\Builder;
