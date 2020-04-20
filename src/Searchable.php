@@ -225,7 +225,7 @@ trait Searchable
      */
     protected function getJoins()
     {
-        return array_get($this->toSearchableArray(), 'joins', []);
+        return \Arr::get($this->toSearchableArray(), 'joins', []);
     }
 
     /**
